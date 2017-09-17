@@ -1,0 +1,41 @@
+
+header {
+	padding: 1.875em 0;
+}
+
+header h2 {
+	text-align: center;
+}
+
+h3 {
+	margin: 0;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+h2 {
+	background-color: green;
+}
+
+.Launch {
+	background-color: red;
+}
+
+#blues {
+	background-color: blue;
+}
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 3 auto;
+	background-color: #990;
+	font-size: 80.5%;
+}
